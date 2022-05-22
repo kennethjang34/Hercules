@@ -1,5 +1,5 @@
 # nwHacks Project: Hercules
-
+Demo Video: https://youtu.be/h7hHna3sPq8
 ## Bob Pham, Jay Jang, Jay Esquivel, Nafis Ahsan
 
 **Project Description:**
@@ -13,3 +13,4 @@ to develop our app as it uses object-oriented design. Overall we tried to keep c
 simple but also developed an algorithm in which it becomes harder to earn rewards the more you 
 progress.
 
+![Hercules](https://user-images.githubusercontent.com/89117160/169675221-7f116eb5-8924-49d7-99ab-bf8cb61b2e93.png)
