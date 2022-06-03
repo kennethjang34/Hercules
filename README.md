@@ -14,3 +14,5 @@ simple but also developed an algorithm in which it becomes harder to earn reward
 progress.
 
 ![Hercules](https://user-images.githubusercontent.com/89117160/169675221-7f116eb5-8924-49d7-99ab-bf8cb61b2e93.png)
+![questpage](https://user-images.githubusercontent.com/89117160/171923157-b9709a1c-5589-479f-845b-7c795cf55881.png)
+![changeroomscreenshot](https://user-images.githubusercontent.com/89117160/171923162-5897fe1b-eee6-428c-be9d-e191a7ebff84.png)
